@@ -1,0 +1,105 @@
+<DOCTYPE html>
+<html>
+ <head>
+  <title> lover baking </title>
+   <img src="loverbaking lol.jpg">
+   
+ </head>
+ <body bgcolor="pink">
+  <div>
+   
+   <h1><center> Lover baking </h1>
+   <h2><center> Menu </h2> 
+  </div>
+  <div>
+  <table border="1" width="100%">
+       <thead bgcolor="lemonchiffon">
+  <tr>
+   <th colspan="3" align="center"><h3> Cupcakes</h3> </th>
+  </tr>
+  </thead>
+  <tbody align="center" bgcolor="#ffffff"> 
+  <tr>
+   <td><center><h4> vainilla & chocolate</h4></td>
+   <td><center><h4> red velvet <h4></td>
+   <td><center><h4>banana split<h4></td>
+  </tr>
+  <tr>
+   <td><center><h4> $45</h4></td>
+    <td><center><h4> $40</h4></td>
+     <td><center><h4>$45</h4></td>
+</tr>
+    <tr>
+    <td><center><h4>fresa</h4></td>
+   <td><center><h4>oreo</h4></td>
+  <td><center><h4>ferrero rocher</h4></td>
+</tr>
+   <tr>
+    <td><center><h4> $40</h4></td>
+  <td><center><h4> $40</h4></td> 
+  <td><center><h4> $50</h4></td>
+ </tr>
+  </tbody>
+  </table>
+  </div>
+  <div><center>
+   <p><h3> LOVER BAKING</h3>
+     <h4><a href="cupcakes.html"> MENU SEMANAL </a></h4></p>
+     <ul> 
+      <li> <h6> LUNES </h6>CUPCAKES $60 c/u<br> 
+                 sabores:vainilla,chocolate y glaseada </li>
+      <li> <h6> MARTES </h6> DONAS $40 c/u <br>
+                 sabores:chocolate,vainilla y glaseada </li>
+      <li> <h6> MIERCOLES </h6> CAKE POPS $20 c/u c/u <br>
+                  sabores:café,te verde,red velvet,fresa </li>
+      <li> <h6> JUEVES </h6>  BRAWNIES CON TOPPING $40 c/u  <br>
+                  sabores:fresa,nutella,cajeta,chocolate,durazno </li>
+      <li> <h6> VIERNES </h6> PASTEL POR REBANADA $60 c/u </h6>
+                  sabores:fresa,chocolate,vainilla,red velvet </li>
+     </ul>
+  </div> 
+   <div><center>
+    <h3><a href="pasteles y sus sabores.html">pasteles</a></h3>
+   </div>
+  <div>
+   <table border="2" width="100%">
+       <thead bgcolor="lemonchiffon"> 
+    <tr><center>
+     <th><center>Nombre </th>
+     <th><center> Pasteles </th>
+     <th><center> Rebanadas </th>
+    </tr>
+   </thead>
+   <tbody aling="center" bgcolor="#ffffff">
+    <tr>
+      <td><center> Pastel de mazapan </td>
+      <td><center> $400 </td>
+      <td><center> $65 </td>
+    </tr>
+    <tr>
+      <td><center>  Pastel de frutos rojos </td>
+      <td><center> $350  </td>
+      <td><center> $65 </td>
+    </tr>
+    <tr>
+      <td><center> Pastel de fresas c/crema </td>
+      <td><center> $375 </td>
+      <td><center> $65 </td>
+    </tr>
+    <tr>
+      <td><center>  Ramekin jr </td>
+      <td><center> $500 </td>
+      <td><center> $75 </td>
+    </tr>
+  </table>
+  </div>
+  <div>
+   <p><center> si requieres un pastel de bodas, podemos ofrecerte esto:<a href="pasteles2 lo de wen.html">da click aqui</a></p>
+  <footer>
+     <h5> contacto</h5>
+   <p> <a href="./como encontrarnos.html">
+       nos encontramos en</a>
+   </p>
+  </footer>
+ </body>
+</html>
